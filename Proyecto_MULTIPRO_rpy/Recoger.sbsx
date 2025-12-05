@@ -12,10 +12,10 @@
 			<_id type="a">GUID 9337d5f8-0f42-44a9-96af-bc2b69ea200c</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Recoger</_name>
-			<_modifiedTimeWeak type="a">9.28.2021::6:4:20</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.28.2021::9:13:34</_modifiedTime>
-			<weakCGTime type="a">9.28.2021::6:6:25</weakCGTime>
-			<strongCGTime type="a">9.28.2021::6:6:25</strongCGTime>
+			<_modifiedTimeWeak type="a">9.28.2021::11:26:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.28.2021::11:40:4</_modifiedTime>
+			<weakCGTime type="a">9.28.2021::11:26:0</weakCGTime>
+			<strongCGTime type="a">7.28.2021::6:41:19</strongCGTime>
 			<_defaultComposite type="s">GUID e11dca57-0b50-4466-b242-4628f6427374</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
@@ -26,6 +26,7 @@
 				<value>GUID b2f404a2-a066-4b25-95f7-8de4b33457b9</value>
 				<value>GUID f48de226-19f3-47ea-bf80-2da540053d14</value>
 				<value>GUID bae09c9a-17a4-4afe-989c-5a7751b06596</value>
+				<value>GUID c81635ef-4b3c-435e-ba39-347960bdc26c</value>
 			</AggregatesList>
 		</ISubsystem>
 		<IUCDiagram type="e">
@@ -121,44 +122,6 @@
 									</IPropertyMetaclass>
 									
 									<IPropertyMetaclass type="e">
-										<_Name type="a">Depends</_Name>
-										<Properties type="c">
-											<IRPYRawContainer type="e">
-												<IProperty type="e">
-													<_Name type="a">Font.Font</_Name>
-													<_Value type="a">Tahoma</_Value>
-													<_Type type="a">String</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Font.Size</_Name>
-													<_Value type="a">8</_Value>
-													<_Type type="a">Int</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Line.LineColor</_Name>
-													<_Value type="a">128,128,128</_Value>
-													<_Type type="a">Color</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Line.LineStyle</_Name>
-													<_Value type="a">2</_Value>
-													<_Type type="a">Int</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Line.LineWidth</_Name>
-													<_Value type="a">0</_Value>
-													<_Type type="a">Int</_Type>
-												</IProperty>
-												
-											</IRPYRawContainer>
-										</Properties>
-									</IPropertyMetaclass>
-									
-									<IPropertyMetaclass type="e">
 										<_Name type="a">UseCase</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
@@ -218,8 +181,8 @@
 			</_properties>
 			<_name type="a">Diagrama de Casos de Uso del Sistema Recoger</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.28.2021::6:7:33</_modifiedTime>
-			<_lastModifiedTime type="a">9.28.2021::6:7:33</_lastModifiedTime>
+			<_modifiedTime type="a">9.28.2021::11:26:4</_modifiedTime>
+			<_lastModifiedTime type="a">9.28.2021::11:26:4</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -262,7 +225,7 @@
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<elementList type="a">16</elementList>
+			<elementList type="a">12</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -285,12 +248,8 @@
 				<value>GUID b3b0deb7-fc87-465a-9d07-c048501ed69e</value>
 				<value>GUID bad98563-5974-4802-acb0-8920e612fd26</value>
 				<value>GUID 4779eb73-b652-4d13-96be-de236167d306</value>
-				<value>GUID 18b2f9a3-33a0-492d-9ec3-e3c11b895879</value>
-				<value>GUID 1ccc6a40-6ba3-47e6-97f4-aa4ccdc24bc5</value>
-				<value>GUID e627b71d-360a-4939-843b-9992f1f84652</value>
-				<value>GUID 955e0168-7595-4834-b944-28e3ecdd1142</value>
-				<value>GUID 3f0d0192-5e8d-423e-a329-1f061c7e7bb6</value>
-				<value>GUID 7023a4b3-99ad-47b6-99ca-25d255c779b4</value>
+				<value>GUID de06b556-8f6e-4f50-b132-5b291deee7ed</value>
+				<value>GUID eda987c9-bdeb-4857-8109-4488f1ec3846</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -359,7 +318,7 @@
 					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
 					<_hsubsystem type="a">MCUS</_hsubsystem>
 					<_hclass type="a">Gerente</_hclass>
-					<_hname type="a">itsCU01 Coordinar recepci%F3n del lote</_hname>
+					<_hname type="a">itsCU01 Coordinar recepci%F3n del lote de pedidos</_hname>
 					<_hid type="a">GUID 14ccf876-90d0-4268-becb-ddceae0cfa8e</_hid>
 				</IHandle>
 			</m_pModelObject>
@@ -1158,7 +1117,7 @@
 			<m_pParent type="s">GUID ca618842-bcea-4511-8d72-3ac251791566</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">CU01 Coordinar recepci%F3n del lote</m_str>
+					<m_str type="a">CU01 Coordinar recepci%F3n del lote de pedidos</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1500,468 +1459,7 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 		</CGIBasicClass>
 		<CGIBasicClass type="e">
-			<_id type="a">GUID 18b2f9a3-33a0-492d-9ec3-e3c11b895879</_id>
-			<_properties type="p"><IPropertyContainer type="e">
-				<Subjects type="c">
-					<IRPYRawContainer type="e">
-						<IPropertySubject type="e">
-							<_Name type="a">Format</_Name>
-							<Metaclasses type="c">
-								<IRPYRawContainer type="e">
-									<IPropertyMetaclass type="e">
-										<_Name type="a">UseCase</_Name>
-										<Properties type="c">
-											<IRPYRawContainer type="e">
-												<IProperty type="e">
-													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,173,91</_Value>
-													<_Type type="a">Color</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Fill.Transparent_Fill</_Name>
-													<_Value type="a">0</_Value>
-													<_Type type="a">Int</_Type>
-												</IProperty>
-												
-											</IRPYRawContainer>
-										</Properties>
-									</IPropertyMetaclass>
-									
-								</IRPYRawContainer>
-							</Metaclasses>
-						</IPropertySubject>
-						
-						<IPropertySubject type="e">
-							<_Name type="a">General</_Name>
-							<Metaclasses type="c">
-								<IRPYRawContainer type="e">
-									<IPropertyMetaclass type="e">
-										<_Name type="a">Graphics</_Name>
-										<Properties type="c">
-											<IRPYRawContainer type="e">
-												<IProperty type="e">
-													<_Name type="a">ShowLabels</_Name>
-													<_Value type="a">False</_Value>
-													<_Type type="a">Bool</_Type>
-												</IProperty>
-												
-											</IRPYRawContainer>
-										</Properties>
-									</IPropertyMetaclass>
-									
-								</IRPYRawContainer>
-							</Metaclasses>
-						</IPropertySubject>
-						
-					</IRPYRawContainer>
-				</Subjects>
-			</IPropertyContainer>
-			</_properties>
-			<m_type type="a">125</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Reutilizables.sbsx</_hfilename>
-					<_hsubsystem type="a">MCUS::Reutilizables</_hsubsystem>
-					<_hname type="a">CU05 Consultar Hoja de Pedido</_hname>
-					<_hid type="a">GUID b82f42b3-9e8d-4af8-8625-8bb696982f68</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID ca618842-bcea-4511-8d72-3ac251791566</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_str type="a">CU05 Consultar Hoja de Pedido</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 611.248 180.061 </m_transform>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_AdditionalLabel type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_AdditionalLabel>
-			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
-			<m_nNameFormat type="a">0</m_nNameFormat>
-			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-		</CGIBasicClass>
-		<CGIAssociationEnd type="e">
-			<_id type="a">GUID 1ccc6a40-6ba3-47e6-97f4-aa4ccdc24bc5</_id>
-			<m_type type="a">94</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
-					<_hsubsystem type="a">MCUS</_hsubsystem>
-					<_hclass type="a">Gerente</_hclass>
-					<_hname type="a">itsCU05 Consultar Hoja de Pedido</_hname>
-					<_hid type="a">GUID ce06b871-addc-4b48-9505-ec4c196aba1b</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s"></m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID 9c285154-c51d-403f-b68b-d37cc3d38bfd</m_pSource>
-			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 18b2f9a3-33a0-492d-9ec3-e3c11b895879</m_pTarget>
-			<m_targetType type="a">'T'</m_targetType>
-			<m_direction type="a">' '</m_direction>
-			<m_rpn type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_rpn>
-			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
-			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">707 823 </m_SourcePort>
-			<m_TargetPort type="a">563 526 </m_TargetPort>
-			<m_pInverseModelObject type="r">
-				<IAssociationEndHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Reutilizables.sbsx</_hfilename>
-					<_hsubsystem type="a">MCUS::Reutilizables</_hsubsystem>
-					<_hclass type="a">CU05 Consultar Hoja de Pedido</_hclass>
-					<_hname type="a">itsGerente</_hname>
-					<_hid type="a">GUID 28e39388-56a7-4998-af35-044eb8a6d332</_hid>
-				</IAssociationEndHandle>
-			</m_pInverseModelObject>
-			<m_pInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInstance>
-			<m_pInverseInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInverseInstance>
-			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
-			<m_bShowSourceRole type="a">0</m_bShowSourceRole>
-			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
-			<m_bShowTargetRole type="a">0</m_bShowTargetRole>
-			<m_bShowLinkName type="a">1</m_bShowLinkName>
-			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
-			<m_bInstance type="a">0</m_bInstance>
-			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
-			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
-			<m_sourceRole type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">2</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceRole>
-			<m_targetRole type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">3</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetRole>
-			<m_sourceMultiplicity type="p">
-				<CGIText type="e">
-					<m_str type="a">1</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">4</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_sourceMultiplicity>
-			<m_targetMultiplicity type="p">
-				<CGIText type="e">
-					<m_str type="a">1</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">5</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_targetMultiplicity>
-			<m_sourceQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">6</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceQualifier>
-			<m_targetQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">7</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetQualifier>
-			<m_specificType type="a">symmetric_type</m_specificType>
-		</CGIAssociationEnd>
-		<CGIBasicClass type="e">
-			<_id type="a">GUID e627b71d-360a-4939-843b-9992f1f84652</_id>
-			<_properties type="p"><IPropertyContainer type="e">
-				<Subjects type="c">
-					<IRPYRawContainer type="e">
-						<IPropertySubject type="e">
-							<_Name type="a">Format</_Name>
-							<Metaclasses type="c">
-								<IRPYRawContainer type="e">
-									<IPropertyMetaclass type="e">
-										<_Name type="a">UseCase</_Name>
-										<Properties type="c">
-											<IRPYRawContainer type="e">
-												<IProperty type="e">
-													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,173,91</_Value>
-													<_Type type="a">Color</_Type>
-												</IProperty>
-												
-												<IProperty type="e">
-													<_Name type="a">Fill.Transparent_Fill</_Name>
-													<_Value type="a">0</_Value>
-													<_Type type="a">Int</_Type>
-												</IProperty>
-												
-											</IRPYRawContainer>
-										</Properties>
-									</IPropertyMetaclass>
-									
-								</IRPYRawContainer>
-							</Metaclasses>
-						</IPropertySubject>
-						
-						<IPropertySubject type="e">
-							<_Name type="a">General</_Name>
-							<Metaclasses type="c">
-								<IRPYRawContainer type="e">
-									<IPropertyMetaclass type="e">
-										<_Name type="a">Graphics</_Name>
-										<Properties type="c">
-											<IRPYRawContainer type="e">
-												<IProperty type="e">
-													<_Name type="a">ShowLabels</_Name>
-													<_Value type="a">False</_Value>
-													<_Type type="a">Bool</_Type>
-												</IProperty>
-												
-											</IRPYRawContainer>
-										</Properties>
-									</IPropertyMetaclass>
-									
-								</IRPYRawContainer>
-							</Metaclasses>
-						</IPropertySubject>
-						
-					</IRPYRawContainer>
-				</Subjects>
-			</IPropertyContainer>
-			</_properties>
-			<m_type type="a">125</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Reutilizables.sbsx</_hfilename>
-					<_hsubsystem type="a">MCUS::Reutilizables</_hsubsystem>
-					<_hname type="a">CU09 Buscar Productos</_hname>
-					<_hid type="a">GUID 2bbf69fa-a939-4ad2-885f-b03004b9ecbe</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID ca618842-bcea-4511-8d72-3ac251791566</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_str type="a">CU09 Buscar Productos</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 590.248 338.061 </m_transform>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_AdditionalLabel type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_AdditionalLabel>
-			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
-			<m_nNameFormat type="a">0</m_nNameFormat>
-			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-		</CGIBasicClass>
-		<CGIInheritance type="e">
-			<_id type="a">GUID 955e0168-7595-4834-b944-28e3ecdd1142</_id>
-			<m_type type="a">128</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IDependency</_hm2Class>
-					<_hid type="a">GUID fd14be6e-c8ee-4458-9bb0-86c69d6ce209</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s"></m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID bad98563-5974-4802-acb0-8920e612fd26</m_pSource>
-			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID e627b71d-360a-4939-843b-9992f1f84652</m_pTarget>
-			<m_targetType type="a">'T'</m_targetType>
-			<m_direction type="a">' '</m_direction>
-			<m_rpn type="p">
-				<CGIText type="e">
-					<m_str type="a">include</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_rpn>
-			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
-			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">893 955 </m_SourcePort>
-			<m_TargetPort type="a">54 279 </m_TargetPort>
-			<m_ShowName type="a">0</m_ShowName>
-			<m_ShowStereotype type="a">1</m_ShowStereotype>
-		</CGIInheritance>
-		<CGIBasicClass type="e">
-			<_id type="a">GUID 3f0d0192-5e8d-423e-a329-1f061c7e7bb6</_id>
+			<_id type="a">GUID de06b556-8f6e-4f50-b132-5b291deee7ed</_id>
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
@@ -2023,16 +1521,13 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestion.sbsx</_hfilename>
-					<_hsubsystem type="a">MCUS::Gestion</_hsubsystem>
-					<_hname type="a">CU19 Generar Hoja de Retorno</_hname>
-					<_hid type="a">GUID 8cabbf96-5c4d-40f0-8c0f-b7aacd987488</_hid>
+					<_hid type="a">GUID c81635ef-4b3c-435e-ba39-347960bdc26c</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID ca618842-bcea-4511-8d72-3ac251791566</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">CU19 Generar Hoja de Retorno</m_str>
+					<m_str type="a">CU18 Generar Hoja de Retorno</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2048,7 +1543,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 101.248 403.061 </m_transform>
+			<m_transform type="a">0.124004 0 0 0.0606909 155.248 390.061 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -2071,7 +1566,7 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 		</CGIBasicClass>
 		<CGIAssociationEnd type="e">
-			<_id type="a">GUID 7023a4b3-99ad-47b6-99ca-25d255c779b4</_id>
+			<_id type="a">GUID eda987c9-bdeb-4857-8109-4488f1ec3846</_id>
 			<m_type type="a">94</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -2079,8 +1574,8 @@
 					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
 					<_hsubsystem type="a">MCUS</_hsubsystem>
 					<_hclass type="a">Gerente</_hclass>
-					<_hname type="a">itsCU19 Generar Hoja de Retorno</_hname>
-					<_hid type="a">GUID fc75d83a-6115-4cbc-8aad-7ea7b3832bf3</_hid>
+					<_hname type="a">itsCU18 Generar Hoja de Retorno_2</_hname>
+					<_hid type="a">GUID aa05ee90-2bd9-4f5c-b617-f7e450fa4b82</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>
@@ -2101,10 +1596,10 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_pSource type="s">GUID 9c285154-c51d-403f-b68b-d37cc3d38bfd</m_pSource>
 			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 3f0d0192-5e8d-423e-a329-1f061c7e7bb6</m_pTarget>
+			<m_pTarget type="s">GUID de06b556-8f6e-4f50-b132-5b291deee7ed</m_pTarget>
 			<m_targetType type="a">'T'</m_targetType>
 			<m_direction type="a">' '</m_direction>
 			<m_rpn type="p">
@@ -2131,11 +1626,7 @@
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestion.sbsx</_hfilename>
-					<_hsubsystem type="a">MCUS::Gestion</_hsubsystem>
-					<_hclass type="a">CU19 Generar Hoja de Retorno</_hclass>
-					<_hname type="a">itsGerente</_hname>
-					<_hid type="a">GUID 07fcf443-ff0d-413d-8471-5dc3c1ade8e1</_hid>
+					<_hid type="a">GUID 08a2fc6a-da77-47b0-86db-26c3381e8e5b</_hid>
 				</IAssociationEndHandle>
 			</m_pInverseModelObject>
 			<m_pInstance type="r">
@@ -2157,6 +1648,7 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
+					<m_str type="a">itsGerente_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2168,11 +1660,12 @@
 					<m_position type="a">1 0 0  </m_position>
 					<m_nIdent type="a">2</m_nIdent>
 					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
+					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
+					<m_str type="a">itsCU18 Generar Hoja de Retorno_2</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2189,7 +1682,6 @@
 			</m_targetRole>
 			<m_sourceMultiplicity type="p">
 				<CGIText type="e">
-					<m_str type="a">1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2205,7 +1697,6 @@
 			</m_sourceMultiplicity>
 			<m_targetMultiplicity type="p">
 				<CGIText type="e">
-					<m_str type="a">1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2257,10 +1748,10 @@
 			<_id type="a">GUID e11dca57-0b50-4466-b242-4628f6427374</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">9.28.2021::6:6:25</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<weakCGTime type="a">9.28.2021::6:6:25</weakCGTime>
-			<strongCGTime type="a">9.28.2021::6:6:25</strongCGTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2270,11 +1761,7 @@
 		<IUseCase type="e">
 			<_id type="a">GUID c0a6eb8f-cf89-4d24-9b42-acd83ec259fe</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">CU01 Coordinar recepci%F3n del lote</_name>
-			<_displayName type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang2058{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
-\viewkind4\uc1\pard\ltrpar\fs20 CU01 Coordinar recepci\'f3n del lote de pedidos\par%0D
-}%0D
-</_displayName>
+			<_name type="a">CU01 Coordinar recepci%F3n del lote de pedidos</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
@@ -2282,7 +1769,7 @@
 					<_hid type="a">GUID 011e6ea2-f3ac-41af-a3f6-60ef84fb3e3b</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::5:27:40</_modifiedTime>
+			<_modifiedTime type="a">9.28.2021::11:12:9</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -2303,7 +1790,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsGerente</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::6:6:59</_modifiedTime>
+			<_modifiedTime type="a">9.28.2021::10:25:19</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -2320,7 +1807,7 @@
 					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
 					<_hsubsystem type="a">MCUS</_hsubsystem>
 					<_hclass type="a">Gerente</_hclass>
-					<_hname type="a">itsCU01 Coordinar recepci%F3n del lote</_hname>
+					<_hname type="a">itsCU01 Coordinar recepci%F3n del lote de pedidos</_hname>
 					<_hid type="a">GUID 14ccf876-90d0-4268-becb-ddceae0cfa8e</_hid>
 				</IHandle>
 			</_inverse>
@@ -2394,9 +1881,9 @@
 					<_hid type="a">GUID 011e6ea2-f3ac-41af-a3f6-60ef84fb3e3b</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::7:52:53</_modifiedTime>
-			<_lastID type="a">2</_lastID>
-			<weakCGTime type="a">7.28.2021::7:52:53</weakCGTime>
+			<_modifiedTime type="a">9.28.2021::10:44:0</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">9.28.2021::10:44:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -2410,13 +1897,14 @@
 			<AggregatesList type="e">
 				<value>GUID a3e414e3-a458-407f-b133-e0e8a40ac387</value>
 				<value>GUID fd14be6e-c8ee-4458-9bb0-86c69d6ce209</value>
+				<value>GUID 05795c01-392c-4a25-a0d8-eefeddca5882</value>
 				<value>GUID 15d22549-553f-441d-8c43-9523f05c6c08</value>
 			</AggregatesList>
 		</IUseCase>
 		<IDependency type="e">
 			<_id type="a">GUID a3e414e3-a458-407f-b133-e0e8a40ac387</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">CU09 Buscar Productos</_name>
+			<_name type="a">CU05 Consultar Hoja de Pedido_0</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					
@@ -2430,14 +1918,14 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">7.28.2021::7:0:26</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::7:0:36</_modifiedTime>
+			<_modifiedTime type="a">9.28.2021::11:12:34</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
 					<_hfilename type="a">.\Reutilizables.sbsx</_hfilename>
 					<_hsubsystem type="a">MCUS::Reutilizables</_hsubsystem>
-					<_hname type="a">CU09 Buscar Productos</_hname>
-					<_hid type="a">GUID 2bbf69fa-a939-4ad2-885f-b03004b9ecbe</_hid>
+					<_hname type="a">CU05 Consultar Hoja de Pedido</_hname>
+					<_hid type="a">GUID b82f42b3-9e8d-4af8-8625-8bb696982f68</_hid>
 				</INObjectHandle>
 			</_dependsOn>
 			<_dependent type="r">
@@ -2472,6 +1960,69 @@
 					<_hsubsystem type="a">MCUS::Reutilizables</_hsubsystem>
 					<_hname type="a">CU09 Buscar Productos</_hname>
 					<_hid type="a">GUID 2bbf69fa-a939-4ad2-885f-b03004b9ecbe</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID f48de226-19f3-47ea-bf80-2da540053d14</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 05795c01-392c-4a25-a0d8-eefeddca5882</_id>
+			<_myState type="a">2048</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Dependency</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">UseNameSpace</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">CU05 Consultar Hoja de Pedido</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">9.28.2021::10:44:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.28.2021::10:44:47</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Reutilizables.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS::Reutilizables</_hsubsystem>
+					<_hname type="a">CU05 Consultar Hoja de Pedido</_hname>
+					<_hid type="a">GUID b82f42b3-9e8d-4af8-8625-8bb696982f68</_hid>
 				</INObjectHandle>
 			</_dependsOn>
 			<_dependent type="r">
@@ -2561,6 +2112,113 @@
 					<_hclass type="a">Gerente</_hclass>
 					<_hname type="a">itsCU04 Registrar Productos</_hname>
 					<_hid type="a">GUID 773a36fa-95ea-4712-816d-8a11c78608d8</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IUseCase type="e">
+			<_id type="a">GUID c81635ef-4b3c-435e-ba39-347960bdc26c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CU18 Generar Hoja de Retorno</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\Gestion.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS::Gestion</_hsubsystem>
+					<_hname type="a">Diagrama de Casos de Uso del Sistema Gesti%F3n</_hname>
+					<_hid type="a">GUID a8033f20-15f9-4dc3-acb5-f8a03b5aaeed</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">9.28.2021::11:26:4</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID b39d0e2c-30c8-4081-a13a-b56e8e863310</value>
+				<value>GUID f06be75f-3713-461f-b2c3-43e68a2ddc60</value>
+				<value>GUID 08a2fc6a-da77-47b0-86db-26c3381e8e5b</value>
+			</AggregatesList>
+		</IUseCase>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID b39d0e2c-30c8-4081-a13a-b56e8e863310</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMotorizado</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.28.2021::10:38:42</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Motorizado</_hname>
+					<_hid type="a">GUID 74cfbc3c-468e-42fb-adc5-fb7260aff5ed</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f06be75f-3713-461f-b2c3-43e68a2ddc60</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGerente</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.28.2021::10:39:24</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Gerente</_hname>
+					<_hid type="a">GUID ca2b9f40-6313-4693-a728-aba286eaaa90</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 08a2fc6a-da77-47b0-86db-26c3381e8e5b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGerente_1</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.28.2021::11:26:4</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Gerente</_hname>
+					<_hid type="a">GUID ca2b9f40-6313-4693-a728-aba286eaaa90</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hclass type="a">Gerente</_hclass>
+					<_hname type="a">itsCU18 Generar Hoja de Retorno_2</_hname>
+					<_hid type="a">GUID aa05ee90-2bd9-4f5c-b617-f7e450fa4b82</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>

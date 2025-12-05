@@ -33,7 +33,7 @@
 					<_hid type="a">GUID 14b8aa5a-7b44-4ea1-b327-d66ae04ba7af</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.28.2021::16:18:7</_modifiedTime>
+			<_modifiedTime type="a">9.28.2021::17:7:31</_modifiedTime>
 			<_lastID type="a">21</_lastID>
 			<weakCGTime type="a">9.28.2021::12:40:56</weakCGTime>
 			<strongCGTime type="a">9.28.2021::12:40:56</strongCGTime>
@@ -13547,7 +13547,7 @@
 			<_represents type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
-					<_hfilename type="a">.\..\Proyecto_MULTIPRO_rpy\MCUN.sbsx</_hfilename>
+					<_hfilename type="a">.\MCUN.sbsx</_hfilename>
 					<_hsubsystem type="a">MCUN</_hsubsystem>
 					<_hname type="a">Clientes</_hname>
 					<_hid type="a">GUID 3e30a638-99cc-4b85-b7c7-e0dd8694c5e4</_hid>

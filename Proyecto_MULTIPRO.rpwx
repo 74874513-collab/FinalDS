@@ -28,7 +28,7 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
+								<m_nRight type="a">940</m_nRight>
 								<m_nBottom type="a">535</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -43,137 +43,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1167 573 </_DownRight>
-						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
-								<m_nBottom type="a">535</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IUCDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\MA.sbsx</_hfilename>
-								<_hsubsystem type="a">MA</_hsubsystem>
-								<_hname type="a">Diagrama de An%E1lisis</_hname>
-								<_hid type="a">GUID 03af47be-917f-41d8-9706-ccb9e8c9caa1</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">54 6 </_UpLeft>
-						<_DownRight type="a">1471 701 </_DownRight>
-						<m_nDiagramIndex type="a">10</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
-								<m_nBottom type="a">535</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IUCDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\GESTION_ENTREGA.sbsx</_hfilename>
-								<_hsubsystem type="a">MA::GESTION_ENTREGA</_hsubsystem>
-								<_hname type="a">Diagrama de Caso de Uso Analisis Gestion de Entregas</_hname>
-								<_hid type="a">GUID 8358326e-9394-4614-bd05-b089070b5417</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 20 </_UpLeft>
-						<_DownRight type="a">992 507 </_DownRight>
-						<m_nDiagramIndex type="a">11</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
-								<m_nBottom type="a">535</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\GESTION_ENTREGA.sbsx</_hfilename>
-								<_hsubsystem type="a">MA::GESTION_ENTREGA</_hsubsystem>
-								<_hclass type="a">Realizacion de An%E1lisis asignar motorizado</_hclass>
-								<_hname type="a">Diagrama de Clases 08</_hname>
-								<_hid type="a">GUID 9eb2e3c9-920c-4246-80d9-d7556bfe291a</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">992 487 </_DownRight>
-						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
-								<m_nBottom type="a">535</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\Productos.sbsx</_hfilename>
-								<_hsubsystem type="a">MA::Productos</_hsubsystem>
-								<_hclass type="a">Realizaci%F3n de An%E1lisis Asignar Productos</_hclass>
-								<_hname type="a">Diagrama de Clases 10</_hname>
-								<_hid type="a">GUID 9b5eb539-40b4-484d-89c3-e03474a2ecdb</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 40 </_UpLeft>
-						<_DownRight type="a">992 527 </_DownRight>
+						<_DownRight type="a">1015 541 </_DownRight>
 						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -190,185 +60,22 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
+								<m_nRight type="a">940</m_nRight>
 								<m_nBottom type="a">535</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\RECEPCION.sbsx</_hfilename>
-								<_hsubsystem type="a">MA::RECEPCION</_hsubsystem>
-								<_hclass type="a">Realizaci%F3n de An%E1lisis Coordinar recepci%F3n del lote</_hclass>
-								<_hname type="a">Diagrama de Clases 01</_hname>
-								<_hid type="a">GUID 62f15cc5-d3d9-4343-9580-4003520d0426</_hid>
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\MA.sbsx</_hfilename>
+								<_hsubsystem type="a">MA</_hsubsystem>
+								<_hname type="a">Diagrama de An%E1lisis</_hname>
+								<_hid type="a">GUID 03af47be-917f-41d8-9706-ccb9e8c9caa1</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 110 </_UpLeft>
-						<_DownRight type="a">992 597 </_DownRight>
-						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
-								<m_nBottom type="a">535</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\REUTILIZABLES_1.sbsx</_hfilename>
-								<_hsubsystem type="a">MA::REUTILIZABLES</_hsubsystem>
-								<_hclass type="a">Realizacion de An%E1lisis consultar hoja de pedido</_hclass>
-								<_hname type="a">Diagrama de clases 05</_hname>
-								<_hid type="a">GUID ef4a5de4-ee18-4107-b7dd-fff3802063e1</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">992 487 </_DownRight>
-						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
-								<m_nBottom type="a">535</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\SEGURIDAD_1.sbsx</_hfilename>
-								<_hsubsystem type="a">MA::SEGURIDAD</_hsubsystem>
-								<_hclass type="a">Realizaci%F3n de An%E1lisis Ingresar al Sistema</_hclass>
-								<_hname type="a">Diagrama de Clase 06</_hname>
-								<_hid type="a">GUID 21176ee8-5c57-42e4-8cae-1aa13bbb385c</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">992 487 </_DownRight>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
-								<m_nBottom type="a">535</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\MAN.sbsx</_hfilename>
-								<_hsubsystem type="a">MAN</_hsubsystem>
-								<_hname type="a">Diagrama de Clases de Caso de Uso de Negocio Gesti%F3n</_hname>
-								<_hid type="a">GUID 50de6a08-6fd7-42df-b297-b4001534f9bd</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 83 </_UpLeft>
-						<_DownRight type="a">1526 832 </_DownRight>
-						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
-						<m_bIsActiveView type="a">1</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
-								<m_nBottom type="a">535</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\MAN.sbsx</_hfilename>
-								<_hsubsystem type="a">MAN</_hsubsystem>
-								<_hname type="a">Diagrama de Clases de Caso de Uso de Negocio Recoger</_hname>
-								<_hid type="a">GUID c770d710-eb7b-4490-b2ae-b4142721aaee</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1322 649 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
-								<m_nLeft type="a">5</m_nLeft>
-								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
-								<m_nBottom type="a">535</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IDiagram</_hm2Class>
-								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\Requerimentos.sbsx</_hfilename>
-								<_hsubsystem type="a">Requerimentos</_hsubsystem>
-								<_hname type="a">Diagrama General de Caso de USo del Sistema vs Requerimientos</_hname>
-								<_hid type="a">GUID c2cbcbb9-1775-417b-8f82-6cce47ffe4bb</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 766 </_UpLeft>
-						<_DownRight type="a">1417 1461 </_DownRight>
+						<_UpLeft type="a">0 10 </_UpLeft>
+						<_DownRight type="a">1305 705 </_DownRight>
 						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -385,7 +92,199 @@
 								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
 								<m_nLeft type="a">5</m_nLeft>
 								<m_nTop type="a">27</m_nTop>
-								<m_nRight type="a">1018</m_nRight>
+								<m_nRight type="a">940</m_nRight>
+								<m_nBottom type="a">535</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\MAN.sbsx</_hfilename>
+								<_hsubsystem type="a">MAN</_hsubsystem>
+								<_hname type="a">Diagrama de Clases de Caso de Uso de Negocio Gesti%F3n</_hname>
+								<_hid type="a">GUID 50de6a08-6fd7-42df-b297-b4001534f9bd</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 73 </_UpLeft>
+						<_DownRight type="a">1406 822 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">940</m_nRight>
+								<m_nBottom type="a">535</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\MAN.sbsx</_hfilename>
+								<_hsubsystem type="a">MAN</_hsubsystem>
+								<_hname type="a">Diagrama de Clases de Caso de Uso de Negocio Recoger</_hname>
+								<_hid type="a">GUID c770d710-eb7b-4490-b2ae-b4142721aaee</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">198 61 </_UpLeft>
+						<_DownRight type="a">1273 634 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">940</m_nRight>
+								<m_nBottom type="a">535</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\MCUS.sbsx</_hfilename>
+								<_hsubsystem type="a">MCUS</_hsubsystem>
+								<_hname type="a">Diagrama General de Caso de Uso del Sistema</_hname>
+								<_hid type="a">GUID fae60e46-f1ed-4cd4-90ae-608597f5daef</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">10 10 </_UpLeft>
+						<_DownRight type="a">1228 659 </_DownRight>
+						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">940</m_nRight>
+								<m_nBottom type="a">535</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\Gestion.sbsx</_hfilename>
+								<_hsubsystem type="a">MCUS::Gestion</_hsubsystem>
+								<_hname type="a">Diagrama de Casos de Uso del Sistema Gesti%F3n</_hname>
+								<_hid type="a">GUID a8033f20-15f9-4dc3-acb5-f8a03b5aaeed</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">68 0 </_UpLeft>
+						<_DownRight type="a">1211 609 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">940</m_nRight>
+								<m_nBottom type="a">535</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\Recoger.sbsx</_hfilename>
+								<_hsubsystem type="a">MCUS::Recoger</_hsubsystem>
+								<_hname type="a">Diagrama de Casos de Uso del Sistema Recoger</_hname>
+								<_hid type="a">GUID 011e6ea2-f3ac-41af-a3f6-60ef84fb3e3b</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">914 487 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">940</m_nRight>
+								<m_nBottom type="a">535</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IUCDiagram</_hm2Class>
+								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\Seguridad.sbsx</_hfilename>
+								<_hsubsystem type="a">MCUS::Seguridad</_hsubsystem>
+								<_hname type="a">Diagrama de Casos de Uso del Sistemas Seguridad</_hname>
+								<_hid type="a">GUID 22bcc849-7a5b-4916-9b5f-7d94db4fec63</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">914 487 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">940</m_nRight>
 								<m_nBottom type="a">535</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
@@ -399,15 +298,47 @@
 								<_hid type="a">GUID 3b20b8ee-b395-4ab6-95bb-c01ac663600b</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 100 </_UpLeft>
-						<_DownRight type="a">1417 795 </_DownRight>
-						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">914 487 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-1</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-1</m_ptMaxPositionY>
+								<m_nLeft type="a">5</m_nLeft>
+								<m_nTop type="a">27</m_nTop>
+								<m_nRight type="a">940</m_nRight>
+								<m_nBottom type="a">535</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Proyecto_MULTIPRO_rpy\Requerimentos.sbsx</_hfilename>
+								<_hsubsystem type="a">Requerimentos</_hsubsystem>
+								<_hname type="a">Diagrama de Requerimientos y CU</_hname>
+								<_hid type="a">GUID fbee2bcb-e0db-478e-afc9-0b3f4b0c51c9</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1075 573 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">D:\Dise%F1oFinal\aaaa (2)\aaaa\aaaa\Proyecto_MULTIPRO</_fullName>
+			<_fullName type="a">D:\Dise%F1oFinal\Proyecto_MULTIPRO</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">

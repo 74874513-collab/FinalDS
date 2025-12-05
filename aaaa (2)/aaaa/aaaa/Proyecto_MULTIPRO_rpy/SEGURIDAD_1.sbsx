@@ -11,7 +11,7 @@
 	<ISubsystem type="e">
 			<_id type="a">GUID 1c6fc254-88fa-4bac-a16d-c75d595cc887</_id>
 			<_name type="a">SEGURIDAD</_name>
-			<_modifiedTimeWeak type="a">7.28.2021::6:41:28</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.28.2021::9:15:43</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -23,7 +23,7 @@
 			</_theMainDiagram>
 			<_modifiedTime type="a">7.28.2021::7:42:49</_modifiedTime>
 			<_lastID type="a">12</_lastID>
-			<weakCGTime type="a">7.28.2021::6:41:28</weakCGTime>
+			<weakCGTime type="a">9.28.2021::9:15:43</weakCGTime>
 			<strongCGTime type="a">7.28.2021::5:37:22</strongCGTime>
 			<_defaultComposite type="s">GUID 3948218b-229f-4ce2-91df-b021e3854300</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -693,7 +693,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -782,7 +782,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Control</_hname>
 							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
@@ -890,7 +890,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -948,7 +948,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -1010,7 +1010,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -1097,7 +1097,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Control</_hname>
 							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
@@ -1178,24 +1178,24 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
-							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
-							<_hname type="a">Entity</_hname>
-							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
+							<_hfilename type="a">C:\Users\adria\Downloads\all profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessEntity</_hname>
+							<_hid type="a">GUID 12977c95-fd63-4e7d-9f28-3fc5c434eef2</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.28.2021::6:53:33</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.28.2021::9:15:49</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 6123087c-1470-4dc1-aee9-34220bbdc7eb</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.28.2021::6:53:33</_modifiedTime>
-			<weakCGTime type="a">7.28.2021::6:53:33</weakCGTime>
-			<strongCGTime type="a">7.28.2021::6:53:33</strongCGTime>
+			<_modifiedTime type="a">9.28.2021::9:15:49</_modifiedTime>
+			<weakCGTime type="a">9.28.2021::9:15:49</weakCGTime>
+			<strongCGTime type="a">9.28.2021::9:15:49</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1240,7 +1240,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
+							<_hfilename type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\AnalysisModel.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -1293,7 +1293,7 @@
 			<_id type="a">GUID 24ae6a55-8fcd-4288-a024-b2f56c986a5e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Realizaci%F3n de An%E1lisis Ingresar al Sistema</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.28.2021::6:13:38</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.28.2021::6:13:47</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">7.28.2021::6:13:38</weakCGTime>
@@ -1303,10 +1303,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -1575,9 +1571,9 @@
 				<value>GUID cdb36490-de67-4521-9984-16e5bf758158</value>
 				<value>GUID 19bd1b3c-a7e8-4e4a-a31e-dc46cb03bde7</value>
 				<value>GUID ef987d80-6115-4f38-a6d3-f04f56e461b5</value>
-				<value>GUID e44a616a-98c8-403c-bfcb-8c7506a0d306</value>
-				<value>GUID 4e7af9d2-0c15-45ce-89ca-d23600b19c62</value>
-				<value>GUID 10cfbf6c-ad02-4e62-bfd7-e96dfbca14f5</value>
+				<value>GUID edfa38d8-9669-4d6c-9632-6eb66301a059</value>
+				<value>GUID e2fb307e-81d4-42f5-a73f-ef778e670dcb</value>
+				<value>GUID a5cf7952-6e6c-4951-9d9b-6d47c10e3640</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -1797,7 +1793,7 @@
 			<m_pImageViewData type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">OMGEElement</_hm2Class>
-					<_hid type="a">GUID e44a616a-98c8-403c-bfcb-8c7506a0d306</_hid>
+					<_hid type="a">GUID edfa38d8-9669-4d6c-9632-6eb66301a059</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
@@ -1917,7 +1913,7 @@
 			<m_pImageViewData type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">OMGEElement</_hm2Class>
-					<_hid type="a">GUID 4e7af9d2-0c15-45ce-89ca-d23600b19c62</_hid>
+					<_hid type="a">GUID e2fb307e-81d4-42f5-a73f-ef778e670dcb</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
@@ -2037,7 +2033,7 @@
 			<m_pImageViewData type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">OMGEElement</_hm2Class>
-					<_hid type="a">GUID e44a616a-98c8-403c-bfcb-8c7506a0d306</_hid>
+					<_hid type="a">GUID edfa38d8-9669-4d6c-9632-6eb66301a059</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
@@ -2157,7 +2153,7 @@
 			<m_pImageViewData type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">OMGEElement</_hm2Class>
-					<_hid type="a">GUID 10cfbf6c-ad02-4e62-bfd7-e96dfbca14f5</_hid>
+					<_hid type="a">GUID a5cf7952-6e6c-4951-9d9b-6d47c10e3640</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
@@ -3117,7 +3113,7 @@
 			<m_specificType type="a">symmetric_type</m_specificType>
 		</CGIAssociationEnd>
 		<CGIImageData type="e">
-			<_id type="a">GUID e44a616a-98c8-403c-bfcb-8c7506a0d306</_id>
+			<_id type="a">GUID edfa38d8-9669-4d6c-9632-6eb66301a059</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -3144,11 +3140,11 @@
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_dataSize type="a">3811</m_dataSize>
 			<m_data type="a">7dd#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G36GJ030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdfcae2ff691f1cea1Yc3f676f1f789b49685754f0ef87350d4ecVc9be313436d2489b97baX5191dc57695e63fb6c60fec67f1732323fe10bd6323d7fd0LQ0eTe1dfOX3c4dYdfJd52f1d16eb51d36daea631ae17V78959b03d324f15a979a92db42dbf6ab0c1c7278ce39ae6fWf3b47f04bc26d0a2P3fSec8aa938527c84ef5f0f7fc14a7f6e3d475ef1c7fc29ZG87fafdd68f2456e975e35d4f4f97cbbfb28e7cO6c62720f972bN59cfK8c8c0cb646d85c3cb1153d9c0e7af8Od28f348fa6fe2d7fc1463e0ffc0d9af6d7c45e3ad15354d3ae45b5d69b60dfda77f6afd924b7b6f32443ecca0d5ef849fb7afc2bf8e924Mf853c6da1ea9a85c2e534e92e16d75153ef6b2959d7eacN57e6cfc2ZG859a0782b4eb28749d1ed2c63b38da285a241eM56396dd2906490b1e497627dc543f12be1368fe2066bT8d3e18752543b6fec545b5fa6390c2751bb20e0f24f4afQ970ea51ba7a9e6473577d51fafb69acdc4f222f96ac9e604675e18e7bededef9e95aNf35f06ZGc12dbf6fad6bc7be379bWefc46d5adb50f1969fL2ffc3fa8ed2b71af69d1a81234e3Q9aIb4641fP4eecLbeY89b7d7cde3284a8d4e496e7ad4eb46a2bc496bcbZG6dd9560fd8Te2f48f9089Wad6598819c01633678af50af31fdb6431fd8cfe2ded6da7fe10cd639c671fe83376a51dcd4f1ZG86bfY532f847a37c2bf0ce997775e3569e1d26c6de558fc11acc8b930c63865b52ac3dd4915f957Y6fc7373e36f116b9e30d52L975af1a6ad77Reab2bc0d0b5cdc34adb5P5b0c852308Rb8W022bf727Wdb4d6dY83c2accf2341fd8b62c183e59bf709918ed9afc181a3ea1f05fe26f8TUfaa39bad67c13ae4da7ea2523648ddde47912e01392fbd1946781c57d1Ydf2bc4493ec78f9ac5b82b1f4e786bc46bf638d8c89b57de8f14f88e37b663e73631ced3cb7b7e3d0fb135e41a478fd4d923210f1938dea7728fa91c0a8b59f886af1fdedaQf2d9W57da2a6d9e09d17c2af882bf0e7f6baf853e22b6b992cffbIc436Ycd3430869a7b3b891a39Q2c4f42085c7a2835fb7d6dM0cT3183cf5efd3a57Wefecc9e1f6f8b1fb6f7c2cY9dac716a535d78960d46f2V4eab20d3ed732dc4f8241da80a120739381935fbb56a9235dc476e1761071c630dUaf87e258c3eb294773e8b2c4d435342bV7f6d938fd8cbe2e7fd897acffe90cd5e9d5e61fb6e304fd8c3e2e93c01Wad64927b7fQcd5f3eb73d37b1b9Y92468bW3f855a35L91742b22R3ab9f21303f1381f8d7c3fZG056aZG827eebdf1ee4d3fe287c3ad1e1bef13e8565241ace9509fb35ceb96aMcbe59e15a58cXc6XR31d715f73fUf61fYa53c207b7f61d97fe884ae82f63df6ac0b328c6728M473ef5be1f152a153da40c2a51f691b33f9cKf1cd945a8fd82e248b4fbe8c15fb25f136775005fbd0bc0d821f23ef3019c53b44f18c9e2bd7edf4ed162bbd7b5c96448e2d27478fed97716e608b2346P2aQ9077300a3a938afdeaf8b1fbIfc3ff8b367a83f8afc17e15d73edd8I1bad3516e1fa7de9946f6fUd6c7c2dfN1e0af8472c3fY8cf85341YZGd9W16b14f6da7471dcb275da66037b2fb31af7e5c48f974dcW595ab9f2bffc127bfe09cd79fbI4577e38f18e9f6f6de3fd7a25b468ae2349ee745S8cb6cb58e7538fdec84cb230eaMbdGafb9a318Kedcd4512943b7d31c54a3ad7cfd7ad2ad37527b9e8d1a2Qac4950ea3630ea96135b5c4315c5bdc46d1cb14a81e39148c15653c104M41ea28a2b1361b6d125b24Mc71ac71c6802R8dRQMG1fd2a66895d7054303d8d145G0630c572R769c8e3a53b14514b95009S51b45145303fZd9</m_data>
-			<m_srcFile type="a">D:\all profiles\profiles\AnalysisProfile\images_analysis\boundary.jpg</m_srcFile>
+			<m_srcFile type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\images_analysis\boundary.jpg</m_srcFile>
 			<m_fileModifiedTime type="a">8.11.2021::3:46:3</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 4e7af9d2-0c15-45ce-89ca-d23600b19c62</_id>
+			<_id type="a">GUID e2fb307e-81d4-42f5-a73f-ef778e670dcb</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -3175,11 +3171,11 @@
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_dataSize type="a">3249</m_dataSize>
 			<m_data type="a">6be#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G2aG2b030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdf5d4L682df727dece393815817de2dfec782ea5bcbcb7861b50cf3cc70b0db27505d9O0b81dc9c567fed13f17347f80bY775cf197O2f3ec3a3f86edcdedc48a4091f1c2c71e783248c563453f7Pd57a915f927e36f8a1e30fdb2b5c9752f8817d7cbe1db86fb5e91eHb7b92ba4e936e7e4H485706X60Gf37cc2c8189c28c577W72fa98P596c72e23111a4aef73ed4fdR3fWabde08Y378cf45f869e13f1b784X3e2078bc32da6a776dT44Yfaa1f9X679d728ce1798eH72ef8190I5f417cGb787c35e02d2f47b3f125f78c974b89a1935ab8ba4bc7bf90932492492212a1b73M83X2b28e98afcb9f157ece3e1af19783bfb2ffb36c74c3858ed26b3b58613Lc3942802ed033f7811861c366b91f873178d3f65cb5d26fbc15e2487c37e26b2432dd5b582b47a16a330631af9b67bb631d8c72536b1382490Q0f771bc34e14ef4ddd9e6e1f36729fbeb43f6d2dae249e48fe6cafa81c30fe9572bc67f62bfda8ed3f6bcf833a4f8badad62d2efa5dd6face9a2W4c74ebd8c9478d587de8db1bd1ZG8d191b0335ecd5f2b28ca2f964b547b69a7ac4f89ffe0bcde25bdd1ff639YX9b6eZGe81e24f1c697a6ea9011c5ddS59X3cb27aafef6089b2b820Qc115Y8fN3c511aOda465964c9VN6dc9233bb68e031e871d7193ce4d7e8c7fc1L7e06ea7f1b3f624d4a7d162b8bcd63Uba95bf8aad6ca15dc6fc5b891258f1d4e20965Mabf3I46R3ad7e47f843c771cb1ac90dc7990V897293152825475ca15079fbbf7b3d0e475afb1e1b94274fd9f5b9f3Pb465edb9ba58fa8a1f1b235818c29fP71935c67c42f174734I08d8c6a4Mbdb6e30547a66bN87e25c8dGK6ddb7d1ab9ef1378f77fP34d246YUa662Rdb890bc9e9f4e95f5129a82679b5R73a5081f71ZGc1067c6538f897f193c3Hba2e92a74bf118O8fde0bcb849ade57cfJa62b58G41855cM066bf4b2bf3cbfW833f05750d03U1e26f8P7716eb7fO7711d969d70cdb7ed16161be38a70846eccd23cecbdbcb446fe3afd0dafcc7309a9579347dL0e128d24a450f11e9bfdada634219a32Va43afde4c1cee1fed0ea0f63ebd2bf32ZG6c2ff8222ea9ZG0936Te2af83bad5ac83569e7d4ee7c2baa1290addcb2192536b38cf96ae7eec2c0229c9dc01afd3fb81984dLbc4b711859156459231b830c86e7bd460f17530f579e9b1e230f0a8bde3f09efZG610f8ffa76affd93ZG0a8bc40da8caN288af2da78518fYbccae635cf624e3d715fJ7eV3fY43af1bfc46bfb3bcf8b5a943W9d021911dfc3fa648b71a9dfH72d1cbMa4c51a9c7de8Pcf62057eae1b68d82cL3428Q614aY3f0a8e18d63bcb54KK4cb1da0606M7b57a9Ocf311523cbb1cb87cb68af7ac43e1dYb5bf87e1b382cd23b7b3b2852dedede18563860445daR8a06Gc6071cGGadca8216cffdf6454f5e0ddb7767a7d2c7Zd9</m_data>
-			<m_srcFile type="a">D:\all profiles\profiles\AnalysisProfile\images_analysis\control.jpg</m_srcFile>
+			<m_srcFile type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\images_analysis\control.jpg</m_srcFile>
 			<m_fileModifiedTime type="a">8.11.2021::3:46:52</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 10cfbf6c-ad02-4e62-bfd7-e96dfbca14f5</_id>
+			<_id type="a">GUID a5cf7952-6e6c-4951-9d9b-6d47c10e3640</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -3206,15 +3202,15 @@
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_dataSize type="a">3301</m_dataSize>
 			<m_data type="a">6d6#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G32G3c030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdfca28aa1e27f1159f847c3f79aa6a375159e9fa7c2f717Ic8M91468a5998fdG268f20f52eTec1dZG0158775f14fcI637324If88b41866889578e4d42256423a820b641afV2f8f3fY506fO1fb60eb9a858f87f56bcY47c339e431d9a69ce60d5b5785482bIdc0f9a147c060b190db7193c915e716ffb32f82f54579ef3c33a2ea17521df2dcdddRcf3cec7ab3T02Vc7b92735f4b85e1c9ca3cd5a5cbe4b57f3d8f2eaL91bda9abfe07ecae8de23d3fc4769f68d3af6d750b7dc57cdb699664c8ea3729233ed5715bMafc64d02c35dfd9e3515bef869e24d53U73c79ff47d3c86d3e5ce376fb46cc24b6305b6Xf423ad7e857fc13d3f6ee87f6b7f0d6a9a5eb90dae93f103c2fb46ada7Uc4c3344dc477Me79f2dY460925595876c9e2V326a9868fb44f9a3dfR36c3e3e351f235L7d2545Ge4515e39dc15f22ffc16dfe22dd781bf617bed3ad957cbf1a6b363e1cbP37157821p03d083f7bf7407d09afaeabe36ZG82eaf83aZGc49fS9cba959a46d6de11f10e9faf6a059b063b58Pd5d87a90645e2bb32fb7d669f36d7473e2afec656ec7Udf0e3578ede18557622aWG3a015ea5a5f89238edbef2f4afPbc2fe2efb204f981e739aedecbe23aa41f781fc6bf4c9c6cf43e5632d0f40f196bd190df32d55fd867e2c4df0b3fWQdf0f6ead14c91f8bae64Ycddc5bb68649919d243eT0c6703fda35e65e23f1face1b915d1ZGc13f7c1fa87c61ZG82837c31b7d3f6ZGc539a8b7Oaf18fdd48208d948cf62c6418cf5c1ae4c7462Sb539fbI6a327ed63cbdd1fbOPcd3a9a8727f5a757e647d6Hcfa8436a3f7b2c7173N5d82e4fe3593e2eb2d0fc73e19bed1f546Sbed375281edae60964465963M43020fb1ac7f8c5fb3d782ZG682d32d2cbc69e1bd2fc4969a7V6e2da2bd8f7ac3211b4b0e4724715e7fZG0ed2f80fZG44b3c23ff80a7fc6ae3cab56ddfc9112e6e96b1f92bfb61fec27e36fd87bc57a94b25acbaffc37f3e49b4df105P5963d3adcb6520ba504b21J42f9846d200e739af1ed3fc6d6fa8d9a4d6f7904d0c9ca4892a9571ec6bf72LZG82L7c03b9b778Lf853Wd9a19061e37b3dcae3dc1383K57fe0957fb39a2ed5f82ZG0fK47J34a4G57d5e1f89a31872d48b6fbe88f16a6533726Wd247e1fePacdef8e3c40da3f8774ed43c51ae050dfd9ba5446eaeJe9b99573b57a658f02bf5fbfW955fSac3fb1dfc35bcd6fc5571a74df11bc5ea8faa18ee5648f4d8549315a21cf3b324b11c1627a8c57a358ZGc12e3f679d2ee4cd6bY7bU96b311832c3a6ac6e47a6e1cd59ff876a7U86ebYb3c23ff80c7fc6b8f32ced62a1ece378c7aedafe26f84cba54a7cf2b37d3c8f698757b495f6c7716Xc7Q591493f8Lac6faf25Y0fec27Y8be15f8becfc41e1cf87fe1bd1f5ad398b5b5e5bJ5658490549073dc123f1af5830e6be7fddbe8dfccf5237fb449451454941451450014514500145145007Zd9</m_data>
-			<m_srcFile type="a">D:\all profiles\profiles\AnalysisProfile\images_analysis\entity.jpg</m_srcFile>
+			<m_srcFile type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\images_analysis\entity.jpg</m_srcFile>
 			<m_fileModifiedTime type="a">8.11.2021::3:47:13</m_fileModifiedTime>
 		</CGIImageData>
 		<IUseCase type="e">
 			<_id type="a">GUID 1c9da970-7e4e-4743-9a9e-a50f4ea6aeae</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Realizaci%F3n de An%E1lisis Modificar Contrase%F1a</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::6:13:54</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.28.2021::6:13:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.28.2021::9:15:43</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">7.28.2021::6:13:35</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -3223,10 +3219,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -3420,8 +3412,8 @@
 			</_properties>
 			<_name type="a">Diagrama de Clase 07</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.28.2021::6:54:15</_modifiedTime>
-			<_lastModifiedTime type="a">7.28.2021::6:54:15</_lastModifiedTime>
+			<_modifiedTime type="a">9.28.2021::9:15:49</_modifiedTime>
+			<_lastModifiedTime type="a">9.28.2021::9:15:49</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3487,9 +3479,9 @@
 				<value>GUID 17075e08-577c-4475-82c7-224e063c22e9</value>
 				<value>GUID d4ef9806-5fea-469c-9e75-519005dd8467</value>
 				<value>GUID 5b42c17c-4a4d-4bfd-a6b0-495ced40f19c</value>
-				<value>GUID 71459f00-dd00-4cb6-800e-68efdab0b167</value>
-				<value>GUID 72ac9a91-275e-4969-8544-1748736f7867</value>
-				<value>GUID 721a183c-f3dd-4d3e-9712-3984c5cfef46</value>
+				<value>GUID deba1837-881e-4c5e-a84e-6d35c491ffdf</value>
+				<value>GUID bb410310-f36b-4374-9b19-50c088103d87</value>
+				<value>GUID f4e6bae7-82e8-4e02-9e2a-730de04760b7</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -3709,7 +3701,7 @@
 			<m_pImageViewData type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">OMGEElement</_hm2Class>
-					<_hid type="a">GUID 71459f00-dd00-4cb6-800e-68efdab0b167</_hid>
+					<_hid type="a">GUID deba1837-881e-4c5e-a84e-6d35c491ffdf</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
@@ -3829,7 +3821,7 @@
 			<m_pImageViewData type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">OMGEElement</_hm2Class>
-					<_hid type="a">GUID 72ac9a91-275e-4969-8544-1748736f7867</_hid>
+					<_hid type="a">GUID bb410310-f36b-4374-9b19-50c088103d87</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
@@ -3949,7 +3941,7 @@
 			<m_pImageViewData type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">OMGEElement</_hm2Class>
-					<_hid type="a">GUID 721a183c-f3dd-4d3e-9712-3984c5cfef46</_hid>
+					<_hid type="a">GUID f4e6bae7-82e8-4e02-9e2a-730de04760b7</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
@@ -4069,7 +4061,7 @@
 			<m_pImageViewData type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">OMGEElement</_hm2Class>
-					<_hid type="a">GUID 71459f00-dd00-4cb6-800e-68efdab0b167</_hid>
+					<_hid type="a">GUID deba1837-881e-4c5e-a84e-6d35c491ffdf</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
@@ -4245,7 +4237,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGerente</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4262,7 +4253,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsCI_Modificar_Contra</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4702,7 +4692,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsCC_Actualizar_datos</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4719,7 +4708,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsUsuario</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4932,7 +4920,6 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsCC_Actualizar_datos</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4949,7 +4936,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsCI_Confirmar_Contra</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5033,7 +5019,7 @@
 			<m_specificType type="a">symmetric_type</m_specificType>
 		</CGIAssociationEnd>
 		<CGIImageData type="e">
-			<_id type="a">GUID 71459f00-dd00-4cb6-800e-68efdab0b167</_id>
+			<_id type="a">GUID deba1837-881e-4c5e-a84e-6d35c491ffdf</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -5060,11 +5046,11 @@
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_dataSize type="a">3811</m_dataSize>
 			<m_data type="a">7dd#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G36GJ030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdfcae2ff691f1cea1Yc3f676f1f789b49685754f0ef87350d4ecVc9be313436d2489b97baX5191dc57695e63fb6c60fec67f1732323fe10bd6323d7fd0LQ0eTe1dfOX3c4dYdfJd52f1d16eb51d36daea631ae17V78959b03d324f15a979a92db42dbf6ab0c1c7278ce39ae6fWf3b47f04bc26d0a2P3fSec8aa938527c84ef5f0f7fc14a7f6e3d475ef1c7fc29ZG87fafdd68f2456e975e35d4f4f97cbbfb28e7cO6c62720f972bN59cfK8c8c0cb646d85c3cb1153d9c0e7af8Od28f348fa6fe2d7fc1463e0ffc0d9af6d7c45e3ad15354d3ae45b5d69b60dfda77f6afd924b7b6f32443ecca0d5ef849fb7afc2bf8e924Mf853c6da1ea9a85c2e534e92e16d75153ef6b2959d7eacN57e6cfc2ZG859a0782b4eb28749d1ed2c63b38da285a241eM56396dd2906490b1e497627dc543f12be1368fe2066bT8d3e18752543b6fec545b5fa6390c2751bb20e0f24f4afQ970ea51ba7a9e6473577d51fafb69acdc4f222f96ac9e604675e18e7bededef9e95aNf35f06ZGc12dbf6fad6bc7be379bWefc46d5adb50f1969fL2ffc3fa8ed2b71af69d1a81234e3Q9aIb4641fP4eecLbeY89b7d7cde3284a8d4e496e7ad4eb46a2bc496bcbZG6dd9560fd8Te2f48f9089Wad6598819c01633678af50af31fdb6431fd8cfe2ded6da7fe10cd639c671fe83376a51dcd4f1ZG86bfY532f847a37c2bf0ce997775e3569e1d26c6de558fc11acc8b930c63865b52ac3dd4915f957Y6fc7373e36f116b9e30d52L975af1a6ad77Reab2bc0d0b5cdc34adb5P5b0c852308Rb8W022bf727Wdb4d6dY83c2accf2341fd8b62c183e59bf709918ed9afc181a3ea1f05fe26f8TUfaa39bad67c13ae4da7ea2523648ddde47912e01392fbd1946781c57d1Ydf2bc4493ec78f9ac5b82b1f4e786bc46bf638d8c89b57de8f14f88e37b663e73631ced3cb7b7e3d0fb135e41a478fd4d923210f1938dea7728fa91c0a8b59f886af1fdedaQf2d9W57da2a6d9e09d17c2af882bf0e7f6baf853e22b6b992cffbIc436Ycd3430869a7b3b891a39Q2c4f42085c7a2835fb7d6dM0cT3183cf5efd3a57Wefecc9e1f6f8b1fb6f7c2cY9dac716a535d78960d46f2V4eab20d3ed732dc4f8241da80a120739381935fbb56a9235dc476e1761071c630dUaf87e258c3eb294773e8b2c4d435342bV7f6d938fd8cbe2e7fd897acffe90cd5e9d5e61fb6e304fd8c3e2e93c01Wad64927b7fQcd5f3eb73d37b1b9Y92468bW3f855a35L91742b22R3ab9f21303f1381f8d7c3fZG056aZG827eebdf1ee4d3fe287c3ad1e1bef13e8565241ace9509fb35ceb96aMcbe59e15a58cXc6XR31d715f73fUf61fYa53c207b7f61d97fe884ae82f63df6ac0b328c6728M473ef5be1f152a153da40c2a51f691b33f9cKf1cd945a8fd82e248b4fbe8c15fb25f136775005fbd0bc0d821f23ef3019c53b44f18c9e2bd7edf4ed162bbd7b5c96448e2d27478fed97716e608b2346P2aQ9077300a3a938afdeaf8b1fbIfc3ff8b367a83f8afc17e15d73edd8I1bad3516e1fa7de9946f6fUd6c7c2dfN1e0af8472c3fY8cf85341YZGd9W16b14f6da7471dcb275da66037b2fb31af7e5c48f974dcW595ab9f2bffc127bfe09cd79fbI4577e38f18e9f6f6de3fd7a25b468ae2349ee745S8cb6cb58e7538fdec84cb230eaMbdGafb9a318Kedcd4512943b7d31c54a3ad7cfd7ad2ad37527b9e8d1a2Qac4950ea3630ea96135b5c4315c5bdc46d1cb14a81e39148c15653c104M41ea28a2b1361b6d125b24Mc71ac71c6802R8dRQMG1fd2a66895d7054303d8d145G0630c572R769c8e3a53b14514b95009S51b45145303fZd9</m_data>
-			<m_srcFile type="a">D:\all profiles\profiles\AnalysisProfile\images_analysis\boundary.jpg</m_srcFile>
+			<m_srcFile type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\images_analysis\boundary.jpg</m_srcFile>
 			<m_fileModifiedTime type="a">8.11.2021::3:46:3</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 72ac9a91-275e-4969-8544-1748736f7867</_id>
+			<_id type="a">GUID bb410310-f36b-4374-9b19-50c088103d87</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -5091,11 +5077,11 @@
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_dataSize type="a">3249</m_dataSize>
 			<m_data type="a">6be#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G2aG2b030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdf5d4L682df727dece393815817de2dfec782ea5bcbcb7861b50cf3cc70b0db27505d9O0b81dc9c567fed13f17347f80bY775cf197O2f3ec3a3f86edcdedc48a4091f1c2c71e783248c563453f7Pd57a915f927e36f8a1e30fdb2b5c9752f8817d7cbe1db86fb5e91eHb7b92ba4e936e7e4H485706X60Gf37cc2c8189c28c577W72fa98P596c72e23111a4aef73ed4fdR3fWabde08Y378cf45f869e13f1b784X3e2078bc32da6a776dT44Yfaa1f9X679d728ce1798eH72ef8190I5f417cGb787c35e02d2f47b3f125f78c974b89a1935ab8ba4bc7bf90932492492212a1b73M83X2b28e98afcb9f157ece3e1af19783bfb2ffb36c74c3858ed26b3b58613Lc3942802ed033f7811861c366b91f873178d3f65cb5d26fbc15e2487c37e26b2432dd5b582b47a16a330631af9b67bb631d8c72536b1382490Q0f771bc34e14ef4ddd9e6e1f36729fbeb43f6d2dae249e48fe6cafa81c30fe9572bc67f62bfda8ed3f6bcf833a4f8badad62d2efa5dd6face9a2W4c74ebd8c9478d587de8db1bd1ZG8d191b0335ecd5f2b28ca2f964b547b69a7ac4f89ffe0bcde25bdd1ff639YX9b6eZGe81e24f1c697a6ea9011c5ddS59X3cb27aafef6089b2b820Qc115Y8fN3c511aOda465964c9VN6dc9233bb68e031e871d7193ce4d7e8c7fc1L7e06ea7f1b3f624d4a7d162b8bcd63Uba95bf8aad6ca15dc6fc5b891258f1d4e20965Mabf3I46R3ad7e47f843c771cb1ac90dc7990V897293152825475ca15079fbbf7b3d0e475afb1e1b94274fd9f5b9f3Pb465edb9ba58fa8a1f1b235818c29fP71935c67c42f174734I08d8c6a4Mbdb6e30547a66bN87e25c8dGK6ddb7d1ab9ef1378f77fP34d246YUa662Rdb890bc9e9f4e95f5129a82679b5R73a5081f71ZGc1067c6538f897f193c3Hba2e92a74bf118O8fde0bcb849ade57cfJa62b58G41855cM066bf4b2bf3cbfW833f05750d03U1e26f8P7716eb7fO7711d969d70cdb7ed16161be38a70846eccd23cecbdbcb446fe3afd0dafcc7309a9579347dL0e128d24a450f11e9bfdada634219a32Va43afde4c1cee1fed0ea0f63ebd2bf32ZG6c2ff8222ea9ZG0936Te2af83bad5ac83569e7d4ee7c2baa1290addcb2192536b38cf96ae7eec2c0229c9dc01afd3fb81984dLbc4b711859156459231b830c86e7bd460f17530f579e9b1e230f0a8bde3f09efZG610f8ffa76affd93ZG0a8bc40da8caN288af2da78518fYbccae635cf624e3d715fJ7eV3fY43af1bfc46bfb3bcf8b5a943W9d021911dfc3fa648b71a9dfH72d1cbMa4c51a9c7de8Pcf62057eae1b68d82cL3428Q614aY3f0a8e18d63bcb54KK4cb1da0606M7b57a9Ocf311523cbb1cb87cb68af7ac43e1dYb5bf87e1b382cd23b7b3b2852dedede18563860445daR8a06Gc6071cGGadca8216cffdf6454f5e0ddb7767a7d2c7Zd9</m_data>
-			<m_srcFile type="a">D:\all profiles\profiles\AnalysisProfile\images_analysis\control.jpg</m_srcFile>
+			<m_srcFile type="a">C:\Users\adria\Downloads\all profiles\profiles\AnalysisProfile\images_analysis\control.jpg</m_srcFile>
 			<m_fileModifiedTime type="a">8.11.2021::3:46:52</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 721a183c-f3dd-4d3e-9712-3984c5cfef46</_id>
+			<_id type="a">GUID f4e6bae7-82e8-4e02-9e2a-730de04760b7</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -5120,10 +5106,10 @@
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_dataSize type="a">3301</m_dataSize>
-			<m_data type="a">6d6#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G32G3c030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdfca28aa1e27f1159f847c3f79aa6a375159e9fa7c2f717Ic8M91468a5998fdG268f20f52eTec1dZG0158775f14fcI637324If88b41866889578e4d42256423a820b641afV2f8f3fY506fO1fb60eb9a858f87f56bcY47c339e431d9a69ce60d5b5785482bIdc0f9a147c060b190db7193c915e716ffb32f82f54579ef3c33a2ea17521df2dcdddRcf3cec7ab3T02Vc7b92735f4b85e1c9ca3cd5a5cbe4b57f3d8f2eaL91bda9abfe07ecae8de23d3fc4769f68d3af6d750b7dc57cdb699664c8ea3729233ed5715bMafc64d02c35dfd9e3515bef869e24d53U73c79ff47d3c86d3e5ce376fb46cc24b6305b6Xf423ad7e857fc13d3f6ee87f6b7f0d6a9a5eb90dae93f103c2fb46ada7Uc4c3344dc477Me79f2dY460925595876c9e2V326a9868fb44f9a3dfR36c3e3e351f235L7d2545Ge4515e39dc15f22ffc16dfe22dd781bf617bed3ad957cbf1a6b363e1cbP37157821p03d083f7bf7407d09afaeabe36ZG82eaf83aZGc49fS9cba959a46d6de11f10e9faf6a059b063b58Pd5d87a90645e2bb32fb7d669f36d7473e2afec656ec7Udf0e3578ede18557622aWG3a015ea5a5f89238edbef2f4afPbc2fe2efb204f981e739aedecbe23aa41f781fc6bf4c9c6cf43e5632d0f40f196bd190df32d55fd867e2c4df0b3fWQdf0f6ead14c91f8bae64Ycddc5bb68649919d243eT0c6703fda35e65e23f1face1b915d1ZGc13f7c1fa87c61ZG82837c31b7d3f6ZGc539a8b7Oaf18fdd48208d948cf62c6418cf5c1ae4c7462Sb539fbI6a327ed63cbdd1fbOPcd3a9a8727f5a757e647d6Hcfa8436a3f7b2c7173N5d82e4fe3593e2eb2d0fc73e19bed1f546Sbed375281edae60964465963M43020fb1ac7f8c5fb3d782ZG682d32d2cbc69e1bd2fc4969a7V6e2da2bd8f7ac3211b4b0e4724715e7fZG0ed2f80fZG44b3c23ff80a7fc6ae3cab56ddfc9112e6e96b1f92bfb61fec27e36fd87bc57a94b25acbaffc37f3e49b4df105P5963d3adcb6520ba504b21J42f9846d200e739af1ed3fc6d6fa8d9a4d6f7904d0c9ca4892a9571ec6bf72LZG82L7c03b9b778Lf853Wd9a19061e37b3dcae3dc1383K57fe0957fb39a2ed5f82ZG0fK47J34a4G57d5e1f89a31872d48b6fbe88f16a6533726Wd247e1fePacdef8e3c40da3f8774ed43c51ae050dfd9ba5446eaeJe9b99573b57a658f02bf5fbfW955fSac3fb1dfc35bcd6fc5571a74df11bc5ea8faa18ee5648f4d8549315a21cf3b324b11c1627a8c57a358ZGc12e3f679d2ee4cd6bY7bU96b311832c3a6ac6e47a6e1cd59ff876a7U86ebYb3c23ff80c7fc6b8f32ced62a1ece378c7aedafe26f84cba54a7cf2b37d3c8f698757b495f6c7716Xc7Q591493f8Lac6faf25Y0fec27Y8be15f8becfc41e1cf87fe1bd1f5ad398b5b5e5bJ5658490549073dc123f1af5830e6be7fddbe8dfccf5237fb449451454941451450014514500145145007Zd9</m_data>
-			<m_srcFile type="a">D:\all profiles\profiles\AnalysisProfile\images_analysis\entity.jpg</m_srcFile>
-			<m_fileModifiedTime type="a">8.11.2021::3:47:13</m_fileModifiedTime>
+			<m_dataSize type="a">9217</m_dataSize>
+			<m_data type="a">12cd#Zd8ZWGH4a464946G010101G60G60GGZdbG43G01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101ZdbG430101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101ZUG1108G38G4f030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfefe28a2bc77e3dfc6ef097eceZG0bf59f8a7e32b2d7f58b0b1d6bUbe0ed07c31e13b3b0bdf14f8e3e237c56f1f7863e147c26f875e1a1acea7Qf86acb5ff88ff14bc6de0fY268dacf8d3c4be11Y0e81a8f886db5cf1ZG8cfc1dWbd3b5df14692d26da4936db4924aedb7a2492d5b6f64294a318b949a8c629ca52934a318a576db7a2496adbd12d59e77f1d7f6baf867Y4fc4363f0c74eb0d77e377ed19ae68567e2eYc7ecafY6756f86f7df1ef5dY14fa8eaba6defc4fbcd0fe22fcJf86fWef87ZG09348b8d035ed3Xfe2d7c59f1c7c3ef86da878bec74df853e1df14eb9f18fc69f0f7e1e78Te58d43W77c7af8fef2eb5fb567ed0be3ad0f4a2a351d0ZG67dfd8cfe257c55fd983e1cfNae2494cfa64baffc7cf86be2cf03fed5df1efc7be1O75cfHf82754f1Kc7c43f82bfb3cfc4ZG0f5bf86fc7571fb12fc37fO7e1bb5d7f4fedff66ff857e2df877e0fd6fc53f16aZGc3fae7ed1ff1d75fd23e317ed43e24Y6cd7e7U3ab7c6cb9f873e03f871a969ZG0c2c351d3744b9d27e147c3cY5fc37f03fc24f84d6ba9e8d6fe31d4be1df803c35e25f8ada9f8dfe2feb3f117e2078b7e86ed8c93df249249f52c4924W019249U0bd0G3dfc2e5d08c54a6aIaba7373ae68526d2972a868a7349fbce4f9137a465L9fe35c41c6d8ac4559d1c154ab85Ude4a8bc34bd962b1908c9c5622ae25a94f0b4272837429508c71138294RKa519d367c5179fY4c2ff8271cc1af35efd8b3f64df893e24bd94dc6Te37f899fGfc07f15be2678cb559b7cdab78bfe24fc58f8abe17f11fc49f897e3ff11eQf26afe2bf1f78f3c4de29f1af8d75ebdd57c49e2ef11ea9af5f5ddf5fbed7f613f855e05d973fb3678ebe3dfec797fa587ZG842f47fd9b3eI78b7c3bf02fe1d1bedd1f8Of82ff629f1ddc7c44fd82acffe12d86f35dbaf118d57f65ad63ed3e2ZG13ebdf162c7fb3beI4f67f116c7ed4a2bbd612872b8ceHa976df34a9d28cb5b2d1d2a74d2f856a95f4576d256f8cfedcVe15d6230d8bc4e12694538d0c5e3670938c9cef3589c4e225352959ca1293a6ecbdcT77f9cf44fdb27c57fb3f6341fdbf1bU5e09Ya5bfP2c3fb74784acf48f849fb1ddf4faQ5b8f0ff837e27f873e21fc6af88ff123f65ff1ebddc5ad78534fd53e20788fc6bfb3df8e6ff4ZG87M689fb43e8df1c7e3cf847f65df0d7e8e57ca7e27Yc786bc6fe1af11782fc69e1dd0bc5fWef17e85abf85fc59e13f14691a7fO3cIe28f0cf8834fb8d275ef0ef88b41d5adXf4ad6f42d6f4abTbdI57d2353b4bad3f52d3Xae2caf6de7b69e589bc2bfL4f8adeIf853f1dbc41fb177c64f157883c5f6bade81af7c53fd8abc75e27d46f7c6feIf17fecfdYf34bf85be1ef8abf0fbe2dfc43baPbc47affc51f80df12be20e8fa4d878Te21e9b37Obe24fc16f1c7c1ZGHf88fe2efc76f8ed65fb41fOf42f131fNfabfef695dd176524dddc24dd974T8bd937769e8fa37facY7f184b3893cbb31f671cc23073a35a0a34e18b841454d385ecb12b5a928d34a138734aH828347e90d14515e59faG57e6c7ed573bf8c3f6e2fd817e166a5b2dfc3dWaf067ed91fb64e9779640c7acdcfc4ef841e19f8Ifb24786b41bfb9b87b9b193c097dYe3fe0a05f1935cd774cb7d3adbc4173e35Yc7c33d474ff13ePa168fe29Ye78cbf49ebf323c7f6e3U7fY538d3eecc8354ff86abfd8425b71191f603e053fS07ed0225dc1b75e7fc2527e2c8ZG82961f936f877fe1031f050b6ef19ffc2c6c780fab04a32c5d052972a5522d3b5ef28bbc63e5cd24a37e97bf43e7b8aea55a5c3b9bca8c1ce6Y93a724a4a36aK651aKe779269aa7467526e3bcd47962d49a67d6da824b049159c9379df64822451e5ac660Iafdb27b56504b7P6d73733c52f9ac6512ac8184602c3150a73bbcaed248ef248e4b3c92I3bT1e59ddd8967763cb3b12Vc4b3124934dafaR51Ma708c9a73b5e6e2acaK25ef54924924b9a6e52d96fb2d8fe78c5d58d7c4d6a94d49527371a109Tca9e1e0953c3d26ef2fe1518d3a6bde96915ef3dd9451456873857e7c7fc14691fc39f0eZG678f8d7a5dcdd43e30f811fb6d7eca5aaf82e11318f49b8bdfda23e26d97ec2fe31975a4b7H6a92b689Y9ff6b2f88be26f083e93ab68f2e9df12b43f046b5aac9adf86f4cd73c23e23fbabc51e28Ycf823cIe22f1a78d3c45a17843c1de10d0b57f1478b3c59e28d5f4fd03cIe17f0ce81a7dc6adaf788bc45af6ad7169a5e89a1689a5da5d6a5abeafa95d5b69fa6e9f6d717979710dbc3248bfc66ffc143be27fed4fZG05c7f83be2cd77W478b35cfd987fe091fe11fda07f6Mf81dWcfObe23Y86b27c7bZG05Gf8b5f153f6b4f845fb3c5d7c48b6Y3de6adWfd52d7f66ef811ab78eafbc63e17d075fbfd320f12fc45Y8e950789ec6f3e28da6a3a2fec8bc78e9c234274e51e79K84d460ba72ae6751f654eca57ee96dbafa4e16c257ad9bW7150a91a143098dc23ab5ea3718ca556b4614f09069373ad8bbca9429afb2e75256aM9497f761W1f13ZGc267Wfd07c48d0f9136a5L7ed7H8fca892fece79ac351fb34Le2e9d6cdafad6e1acbcd9e498da342d3ed98ba2f5f5f397eV3ff220eaZGf637dfZGe997Jafa36be4cfe8b5R5eO2bWcfdb9bU7e2948be01fed2df0efc2faef8b3c61fb2d7c5bff8497c65e16f036897ba8fc42fO9fb367c51f0beb5f09fe3ff81f497f0fc3a878cfc49a1f816d3c4bWcfdb064f82de14Yd78f35ef8f5f11ZG647f855f0e3c21W7bdf8a3a87c39f13784bef3a2aa139539c2a47494251947aeb169abaeaaeb55d4c71586a58V3623095e2e5471346a50ab14dc5ba7560e13b496b1972c9da4b54ecd6a8f94fc2fe28f0d78dfc35e1df1a782fc45a178bfc1de2fd0b49f14784fc59e17d5f4ZGH7867c51e1ad7ec2df56d0bc45e1dd7b49b8bbd2b5bd0b5bd2eXd752d2357d32Xeb4fd4b4fb9b7bcb2b89ada68e46dcaf89f5fd2fc63fS05ZG8b49Y26a9e32fd826f3c49657bf0cedfe0d787fe257c4af8a9fb1fdbeb9e17d0b4b8bWa69bfb37780be1bf8dbc65e38fd98e0fO7e1df12eb9W4f177cIf187Obc41Y427f8dfe05fd9f3c29fbIf817f64ff8250fc4cf01fd79e17f14786bc6fe1aYef8d3c17e22d0bc5fe0ef17e85a478a3c27e2cYbead61aff86bc51e19f1069f6fab683e22YXTa55c5de97ade85ade957769a9e91abe9b7573a7ea5a7dd5bded9dc4d6d347237d6e1b154f13052835ce92f690d538cacafbef1bed2574fbdX97f38e7b9163722c5ce862694dd094e7f55c5257a5Oa49be56a4bdd8dK1b7b5a4ed3837b38384a5b9585e28f147867c11e19f1178d3c69e22d0bc21e0eY8685abf8a3c59e2cf146afa7e81e19Ybf86740d3ee356d7bc45e22d7b56b8b4d2f44d0b44d2ed2eb52d5f57d4aeadb4fd374fb6b8bcbcb886de19245c3f895f12bc15Y87c15ad7c42fO5ad7f61785b42fece86e2e21d3b56d7756d4f56d7756SYef85fc2be15f0bf876c356f14f8d7c75e35f14eada3783bc01W0f0768daef8d7c7fe35d77JY6783340d77c53aX91a45efce5e16f861f16fe377897c3ZG12bf69c4d07c39W2f0feb9a47c41f845fb26e95a7437973W5f16e8f7Y6a1e0df17fed3df1134df1bf8afc1bf1cfe2b7Nae34ad23c73e05Y67c3ed1fc3df03fe02fc5ad5755d4b4ed6ZG6a2f1d7c24fd9eZG69ef096d2959a8c53949abdb6495d26e52d96fa2f8a567ca9a8c9c7cR74938bab524a14a32e5bfdba93b26e9d28d9f34945a739b4a9d25287b492954a50a9f191f85ff12ffe0aPf12dbc47fb477c3af1dfc21ff826c7c21f1cf9df0bZG658f8ade13d7fe1ffc4bfdTbe267807c404d87c6cfdac3e1a78b2c349f15f827f653f04f8a3488fKf813fb2e78e746d2f5ZG8d5e20d374df8d3fb40787ecfc1b65Yf3e195efQfed050784bc75f16ZG674fd95fe1268ba1e93f06ZG649d7b4cf8a9f1a3c3fe0eSb4b1f857e10d57Udf0c63YZGeca1fb2bea7e07Sb4d27c1bfda96b73f11bc3bfb5c784f47d227d6af7f67e93f66afd9fbc53ad7c3eYd7fc2eefN1fH2d7e81f8d9fb5f2784bc5dadfc17f80dW4ff85ebfb41e83fd932fObc3bRea5e32f873Y3be19da5fe9567e26993e337ed1ba5fc31f8Pe16f0678c65f0b6a9e18d4f40f833e17Yf7c43f8f3acdbfc47f85feIbdf85ba17c0df126bff1a3c1e9fb13fecd57fa269765278e75fbafOde2c92e74ff19fc78f8cda8e856fa66a3f1fbe38be91e1fd3bc49e2fd7f4Tad475a8348b5d6Wd1b4eb2d0fU9a5ddea5e12f84bf0ab41f04fc14Y0da7863e1bf84fU3a368de3L188aMa72a34e6R56a8d7b6a8b78c6367c89af853692508T24a5cd7949ca5fa7M864b8bc662Sf9962f0f3c1e59828f3e59846e518d6af38a4b1528c973d66e0dd5a98a9462eb5474a345ac3518d0a5fa09Y2f41fec1f86ba179969f65bcd67ed3af5e7eZGcffb4ff68ca7fb36efe59a68a1f3b43874afdc45e5797b7fd2214bc3739f5ea28aYcfd6d2b24bb2b1f1378afc79ZG051cb3f14f896d3c0ffb2a7ec4de22YKaebfac5b783fc41e2bfdbffe3af8Ic53aef85Qd46e62Yfeb1e25f07e91fY4d2f1e693e14d7f53d256d2f758f0d697e38f19e9da16aIdce9765e2bf115b5ac5abde607fc2c4ff82a27fd19e7ec0fZG8b24fda1bffa54f4514fe4bf1ff3feaefcac59f77f87f9Hdc78f3fe0a79776f3da5dfec6bfbGdd5add432dbdcdb5c7fc147ff6839adee2de6468e6827864ZG8252b472c3346cd1cb148ac922I23a95241fcd8f1ZGec3bZG050fb2f16f8b7e25fecadf067fL5fd8a3c6be3ad63c43e2af8916ZGb37ffc1473c713f82be25fObc4774bac7897c45ae7c0cf8cbZG0475f881fb38dd7c53f196b76da6dcf88be3aea1YU7c74d42cb45d07c1a9f16349f8716ba878535128R84e5092941b8c96d28b69fde9a7fYfe96c6be1a862a94a8e26953c4519db9a956a74ea53959a92e684e2e2d2693b34d68788f8974cff8394af75aYfdc7897e0d7fc115b5ed6bU9ae49e26Y7eab3f82ZG6e6f1349e12f125ff85b5eY95c7O7c25addbdcea50e91ae5c7837c63e29f0a5deada25ec37e7Jf12f893c397338b1d5b56b19e2bef85bZG05e2f8c734761fb40e93Y37fb0efdadf48bef867fb257ed47fb447ec69f0dbc41616f3adf68daaebdf115bf61bf8b5fb5e785bc5f6be22963bcd675ef863fb60fc2af026bbe1cd13c3fe13fH7c3f97c3f3fc471f118a2b578ac4b4d3afKa6acd7b49eRd15afbdadd475eaef2beecf229Mde4542a46a52caY6aM92M94a8426e0d4eI528f3c64a32526dc5c52717f0b5647d71f063fL4fdbdbe13f863c2fe10f05fec37fY4e6f86bf0dbc3b36a52e9fY9bUZGb73fc5df87be1fd2d350d5b51d6350b7d3f4cf037fc12fXfc39a3c3ad6b77f79ae6a8da3422e2fa7d4efeea59ed757bc9Xa1fb5b48f16ffc14cbJd32cf47d1ff630fdN74fd374f8441696907fc148ff6O091a025dPPZGW950d24b34b233cd717133c971737124b71712cb3cb248c51587c97e3fe7fd5df95bdc5151d9bfc3fcbfe01a5ZG0b13fe0a89ZG4679fb03ZGe2c93f686ffe953d77df0c3c67fb79eade39d0f4ZG8d1fb36fec8bW1f86971fda7fY92f8b7e187edb7f197e2ef8e749f2b47d427d1ZGSfe1e78affe09fbY47Jf10fdbf5f8f4adI53fb7fc50f0c7f64e8f79a86b96bfdb57ba65b787b5628a5f2fcZGcffabfa59d9f77f87f91Zd9</m_data>
+			<m_srcFile type="a">C:\Users\adria\Downloads\all profiles\profiles\BusinessModelingProfile\images_bmp\bentity.jpg</m_srcFile>
+			<m_fileModifiedTime type="a">1.2.2021::11:51:6</m_fileModifiedTime>
 		</CGIImageData>
 		
 	</RHAPSODY-MODEL>

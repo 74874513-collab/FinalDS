@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID a9bafced-38dd-4737-a619-f2a29598bc55</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">GESTION_ENTREGA</_name>
+			<_displayName type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang2058{\fonttbl{\f0\fnil\fcharset0 MS Shell Dlg;}}%0D
+\viewkind4\uc1\pard\f0\fs17 GESTI\'d3N DE ENTREGA\par%0D
+}%0D
+</_displayName>
+			<_modifiedTimeWeak type="a">7.28.2021::5:46:50</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Arquitectura de An%E1lisis</_hname>
+					<_hid type="a">GUID fadd1015-7570-47d8-bb99-8f33c2d76e8f</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.28.2021::5:46:50</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.28.2021::5:46:50</weakCGTime>
+			<strongCGTime type="a">7.28.2021::5:46:50</strongCGTime>
+			<_defaultComposite type="s">GUID ec1c78a7-aaf6-4bf2-a769-352a56896753</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 229fa18b-d7f2-43f0-9b71-0550625366e9</value>
+				<value>GUID e6722694-0376-44c0-8f1e-31463e4c94b6</value>
+				<value>GUID ec1c78a7-aaf6-4bf2-a769-352a56896753</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 229fa18b-d7f2-43f0-9b71-0550625366e9</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Clientes</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::5:46:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:46:46</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Clientes.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Clientes</_hname>
+					<_hid type="a">GUID e3d4e96a-e271-403e-851f-c23b5c921aa2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID a9bafced-38dd-4737-a619-f2a29598bc55</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID e6722694-0376-44c0-8f1e-31463e4c94b6</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Productos</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::5:46:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:46:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Productos.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Productos</_hname>
+					<_hid type="a">GUID fc0ff870-3515-4bb1-ab3f-60108df872b2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID a9bafced-38dd-4737-a619-f2a29598bc55</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID ec1c78a7-aaf6-4bf2-a769-352a56896753</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
