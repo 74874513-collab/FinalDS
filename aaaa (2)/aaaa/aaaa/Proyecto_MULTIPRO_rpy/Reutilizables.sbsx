@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202408271326</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID c0b0cba2-55ec-4c1c-9070-44ff0e181b86</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Reutilizables</_name>
+			<_modifiedTimeWeak type="a">7.28.2021::5:28:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::7:42:49</_modifiedTime>
+			<weakCGTime type="a">7.28.2021::5:28:8</weakCGTime>
+			<strongCGTime type="a">7.28.2021::6:42:27</strongCGTime>
+			<_defaultComposite type="s">GUID c7962730-0cb2-4c02-8469-ec8f54cdcc44</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID c7962730-0cb2-4c02-8469-ec8f54cdcc44</value>
+				<value>GUID f9b1ef88-4a62-462f-a90e-538dc790e48c</value>
+				<value>GUID 2bbf69fa-a939-4ad2-885f-b03004b9ecbe</value>
+				<value>GUID b82f42b3-9e8d-4af8-8625-8bb696982f68</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID c7962730-0cb2-4c02-8469-ec8f54cdcc44</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IUseCase type="e">
+			<_id type="a">GUID f9b1ef88-4a62-462f-a90e-538dc790e48c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CU11 Confirmar entrega del pedido</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Diagrama General de Caso de Uso del Sistema</_hname>
+					<_hid type="a">GUID fae60e46-f1ed-4cd4-90ae-608597f5daef</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.28.2021::5:28:8</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 44d226b7-a7ba-4f69-b627-bcc7cd671b7b</value>
+				<value>GUID cae35ef0-ff71-45cf-a22c-33f1cb227ad2</value>
+			</AggregatesList>
+		</IUseCase>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 44d226b7-a7ba-4f69-b627-bcc7cd671b7b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMotorizado</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:28:8</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Motorizado</_hname>
+					<_hid type="a">GUID 74cfbc3c-468e-42fb-adc5-fb7260aff5ed</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hclass type="a">Motorizado</_hclass>
+					<_hname type="a">itsCU11 Confirmar entrega del pedido</_hname>
+					<_hid type="a">GUID 9767e4e2-b0bb-4948-95bb-35718bb28d57</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID cae35ef0-ff71-45cf-a22c-33f1cb227ad2</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsAdministradora</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:28:8</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Administradora</_hname>
+					<_hid type="a">GUID 3162aec0-f756-44de-8d85-3890cf5ac0ff</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hclass type="a">Administradora</_hclass>
+					<_hname type="a">itsCU11 Confirmar entrega del pedido</_hname>
+					<_hid type="a">GUID d2167d9d-7373-42c9-aa97-39c92dc6ac62</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IUseCase type="e">
+			<_id type="a">GUID 2bbf69fa-a939-4ad2-885f-b03004b9ecbe</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CU09 Buscar Productos</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Diagrama General de Caso de Uso del Sistema</_hname>
+					<_hid type="a">GUID fae60e46-f1ed-4cd4-90ae-608597f5daef</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.28.2021::6:59:32</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+		</IUseCase>
+		<IUseCase type="e">
+			<_id type="a">GUID b82f42b3-9e8d-4af8-8625-8bb696982f68</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CU05 Consultar Hoja de Pedido</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Diagrama General de Caso de Uso del Sistema</_hname>
+					<_hid type="a">GUID fae60e46-f1ed-4cd4-90ae-608597f5daef</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.28.2021::7:0:14</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 28e39388-56a7-4998-af35-044eb8a6d332</value>
+				<value>GUID 4374ba39-6a79-4997-a3f9-b68dfd441fdf</value>
+			</AggregatesList>
+		</IUseCase>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 28e39388-56a7-4998-af35-044eb8a6d332</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGerente</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::5:52:15</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Gerente</_hname>
+					<_hid type="a">GUID ca2b9f40-6313-4693-a728-aba286eaaa90</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hclass type="a">Gerente</_hclass>
+					<_hname type="a">itsCU05 Consultar Hoja de Pedido</_hname>
+					<_hid type="a">GUID ce06b871-addc-4b48-9505-ec4c196aba1b</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4374ba39-6a79-4997-a3f9-b68dfd441fdf</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsAdministradora</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.28.2021::6:4:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hname type="a">Administradora</_hname>
+					<_hid type="a">GUID 3162aec0-f756-44de-8d85-3890cf5ac0ff</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hclass type="a">Administradora</_hclass>
+					<_hname type="a">itsCU05 Consultar Hoja de Pedido</_hname>
+					<_hid type="a">GUID 5a0e346c-6613-40bf-a19a-b93e355fb59b</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
